@@ -18,7 +18,7 @@ Moments piled up.
 
 A Hugo theme ported from [SumiMakito/hexo-theme-Journal](https://github.com/SumiMakito/hexo-theme-Journal/).
 
-## Features
+## Featuresds
 
 ### Features of this theme
 
