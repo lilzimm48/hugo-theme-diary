@@ -448,6 +448,7 @@ a {
     .nav-title {
       font-size: $nav-title-size;
       line-height: $nav-title-size * 1.4;
+      display: inline-block !important;
     }
     border-right: 2px solid transparent;
     .nav-subtitle {
