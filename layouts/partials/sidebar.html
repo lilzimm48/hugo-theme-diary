@@ -4,6 +4,11 @@
     {{ else }}
     <a class="a-block nav-head false" href="{{ "" | absLangURL }}">
     {{ end }}
+        <div class="sidebar-avatar">
+            <a href="{{ .Site.BaseURL }}">
+                <img src="{{ "/darklogo.png" | relURL }}" alt="Logo" style="width: 100px; height: auto; border-radius: 50%;">
+            </a>
+        </div>
         <div class="nav-title">
             {{.Site.Title}}
         </div>
